@@ -1,2 +1,5 @@
 rootProject.name = 'WallahPourTest'
+include 'model'
+include 'view'
+include 'controller'
 
